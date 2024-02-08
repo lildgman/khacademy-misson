@@ -1,0 +1,9 @@
+
+Š
+java:S1319$"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Î–Ÿò8Ü²Ã½Ø1
+’
+java:S1319:"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ü³Íıÿÿÿÿ8Ü²Ã½Ø1
+k
+java:S3824"IReplace this "Map.containsKey()" with a call to "Map.computeIfPresent()".(¼©Ù–øÿÿÿÿ8ß²Ã½Ø1
+j
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(›¡í½úÿÿÿÿ8ß²Ã½Ø1
